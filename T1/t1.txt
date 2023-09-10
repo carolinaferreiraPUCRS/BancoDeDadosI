@@ -1,0 +1,4 @@
+r1 - aparelho pedágio (caminhao)
+r2 - trecho (relaciona com entrega); atributo rel (tamanho do percurso)
+a transportadora seleciona trechos para entrega e ao fazer isso deve , 
+r3 - 
